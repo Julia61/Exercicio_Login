@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    background-color: rgb(68, 87, 68);
+}
+
+div#formulario{
+    display: flex;
+    flex-flow: column nowrap;
+    text-align: center;
+}
+
+#cadrastroForms{
+    display: flex;
+    flex-flow: column nowrap;
+
+}
+
+
+input {
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(63, 104, 84);
+    font-size: 1.5em;
+    padding: 5px;
+    margin: 0px;
+}
+
+#imagem{
+
+    background-image: url(pexels-bertellifotografia-799443\ \(1\).jpg);
+    background-size: cover;
+    height: 170px;
+
+}
+
+p{
+    margin: 1px;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+section{
+
+    overflow: hidden;
+    display: flex;
+    flex-flow: column nowrap;
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.356);
+    width: 200px;
+    height: 400px;
+    background-color: white;
+}

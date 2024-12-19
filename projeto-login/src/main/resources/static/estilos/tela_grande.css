@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 1024px) {
+
+    section{
+        flex-flow: row-reverse nowrap;
+        width: 560px;
+        height: 370px;
+
+    }
+
+    div#formulario {
+        padding: 20px;
+    }
+
+    #imagem {
+        width: 370px;
+        height: 100%;
+
+    }
+}

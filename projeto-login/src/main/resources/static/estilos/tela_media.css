@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) and (max-width: 1024px){
+
+    body{
+        height: 100vh;
+        width: 100vw;
+    }
+
+    #imagem {
+        width: 370px;
+        height: 100%;
+
+    }
+
+    div#formulario {
+        padding: 10px;
+    }
+
+    section{
+        flex-flow: row nowrap;
+        width: 500px;
+        display: flex;
+        height: 100vh;
+        height: 340px;
+
+    }
+
+
+}
