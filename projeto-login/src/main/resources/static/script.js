@@ -2,6 +2,8 @@
 
 async function cadastro() {
     const usuario = document.getElementById("usuarioCadastro").value;
+    const email = document.getElementById("emailCadrastro").value;
+    const senha = document.getElementById("senhaCadrastro").value;
 
     try {
         const response = await fetch("http://localhost:8080/login/valoresLogin", {
@@ -9,7 +11,7 @@ async function cadastro() {
             headers: {
                 "Content-Type": "application/json"
             },
-            body: JSON.stringify({ usuario })
+            body: JSON.stringify({ usuario,email,senha })
         });
 
         if (response.ok) {
