@@ -1,9 +1,8 @@
 
-
-async function cadastro() {
-    const usuario = document.getElementById("usuarioCadastro").value;
-    const email = document.getElementById("emailCadrastro").value;
-    const senha = document.getElementById("senhaCadrastro").value;
+async function logar() {
+    const usuario = document.getElementById("usuariologin").value;
+    const email = document.getElementById("emaillogin").value;
+    const senha = document.getElementById("senhalogin").value;
 
     try {
         const response = await fetch("http://localhost:8080/login/valoresLogin", {
@@ -18,7 +17,6 @@ async function cadastro() {
             const resultado = await response.text();
             if (resultado === "conectado") {
                 window.location.href = 'paginaLogin.html';
-
             }
         } else {
             const erro = await response.text();
@@ -33,17 +31,3 @@ async function cadastro() {
 
 
 
-/*
-function cadastro() {
-    const nomeUsuario = document.getElementById("usuarioCadastro").value;
-
-    if(nomeUsuario == "Julia"){
-
-        window.location.href = 'paginaLogin.html';
-    }else{
-        alert("erro")
-    }
-
-
-}
-*/

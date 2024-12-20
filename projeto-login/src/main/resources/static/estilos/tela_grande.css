@@ -9,6 +9,11 @@
 
     }
 
+    #formulario > p {
+            font-size: 0.9em;
+            margin: 10px
+    }
+
     div#formulario {
         padding: 20px;
     }

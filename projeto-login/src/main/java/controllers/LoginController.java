@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/login")
 public class LoginController {
 
-
-
     @PostMapping("/valoresLogin")
     public ResponseEntity<String> valoresLogin(@RequestBody Metodos metodos) {
         if ("Julia".equals(metodos.getUsuario()) &&
