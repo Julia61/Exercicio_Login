@@ -10,7 +10,6 @@
 
 #formulario > p {
     font-size: 0.7em;
-
 }
 
 
@@ -29,7 +28,6 @@ body{
 #cadrastroForms{
     display: flex;
     flex-flow: column nowrap;
-
     align-items: center;
 }
 
@@ -89,7 +87,6 @@ button{
 }
 
 #imagem{
-
     background-image: url(pexels-bertellifotografia-799443\ \(1\).jpg);
     background-size: cover;
     height: 170px;
@@ -103,7 +100,6 @@ p{
 }
 
 section{
-
     overflow: hidden;
     display: flex;
     flex-flow: column nowrap;

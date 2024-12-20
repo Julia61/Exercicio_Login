@@ -5,13 +5,13 @@
     section{
         flex-flow: row-reverse nowrap;
         width: 560px;
-        height: 370px;
+        height: 340px;
 
     }
 
     #formulario > p {
-            font-size: 0.9em;
-            margin: 10px
+        font-size: 0.9em;
+        margin: 10px
     }
 
     div#formulario {
