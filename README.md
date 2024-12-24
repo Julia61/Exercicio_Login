@@ -1,5 +1,5 @@
 🛠️ Desenvolvi uma aplicação de login para praticar conceitos fundamentais de Java, Spring Boot e integração com front-end.
-Durante o desenvolvimento, explorei temas importantes como:
+Durante o desenvolvimento, explorei temas importantes como:</br>
 ✨ API REST com Spring Boot: Criação de endpoints para validação de credenciais.
 🔑 Autenticação básica: Validação de um usuário com credenciais específicas:
 Nome: Julia
