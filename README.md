@@ -6,6 +6,6 @@ Nome: Julia</br>
 E-mail: ju@gmail.com</br>
 Senha: 1234a</br>
 🎨 Front-End Responsivo: Construção de uma interface minimalista e adaptável com HTML e CSS.</br>
-🔗 Integração Front-End/Back-End: Uso do método fetch() para enviar dados via POST e tratar as respostas da API.
-📐 Design e Usabilidade: Aplicação de conceitos de responsividade e estilização personalizada.
+🔗 Integração Front-End/Back-End: Uso do método fetch() para enviar dados via POST e tratar as respostas da API.</br>
+📐 Design e Usabilidade: Aplicação de conceitos de responsividade e estilização personalizada.</br>
 Esse projeto foi essencial para consolidar minha compreensão sobre integração entre front-end e back-end e criar uma aplicação funcional e bem estruturada! 🚀
