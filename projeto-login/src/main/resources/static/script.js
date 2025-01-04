@@ -21,6 +21,9 @@ async function logar() {
         } else {
             const erro = await response.text();
             alert(erro);
+            document.getElementById("usuariologin").value = "";
+            document.getElementById("emaillogin").value = "";
+            document.getElementById("senhalogin").value = "";
         }
     } catch (error) {
         console.error("Erro ao fazer a requisição:", error);
