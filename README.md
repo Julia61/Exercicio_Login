@@ -12,6 +12,6 @@ Esse projeto foi essencial para consolidar minha compreensão sobre integração
 <img src="https://github.com/user-attachments/assets/f5092440-3a58-41f6-a195-61898e6501e9"  width="400"/>
 <img src= "https://github.com/user-attachments/assets/174445b1-b2e3-4519-80f0-3066cc560083" width="200"/> 
 <img src= "https://github.com/user-attachments/assets/dc91ee43-d408-4fe1-8715-f2221b2c5c45" width="400"/> 
-<img src= "https://github.com/user-attachments/assets/8bdba4c1-74d9-4a09-b8ad-6acd77dbb4e3" width="280"/> 
+<img src= "https://github.com/user-attachments/assets/8bdba4c1-74d9-4a09-b8ad-6acd77dbb4e3" width="281"/> 
 
 
